@@ -1,5 +1,5 @@
 # AssistNet
-AssistNet is a Computer Vision-based tool designed to assist aircraft navigation by classifying taxiways and runways using Convolutional Neural Networks (CNNs) that leverages the AssistTaxi Dataset. 
+AssistNet is a Computer Vision model designed to assist aircraft navigation by classifying taxiways and runways using Convolutional Neural Networks (CNNs) that leverages the AssistTaxi Dataset. 
 
 ![Python](https://img.shields.io/badge/Python-3.7.17-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
