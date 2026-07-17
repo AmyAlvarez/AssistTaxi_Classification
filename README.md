@@ -102,6 +102,22 @@ Below are the training and validation metrics tracked during the model's trainin
 
 
 
+## Citation
+If you use AssistNet or the AssistTaxi dataset in your research, please cite our paper. This work was **accepted and orally presented at the 2025 IEEE International Systems Conference (SysCon 2025) in Montreal, Canada**.
+
+**BibTeX:**
+````bibtex
+@inproceedings{ganeriwala2025runway,
+  title     = {Runway vs. Taxiway: Challenges in Automated Line Identification and Notation Approaches},
+  author    = {Ganeriwala, Parth and Alvarez, Amy and AlQahtani, Abdullah and Bhattacharyya, Siddhartha and Khan, Mohammed Abdul Hafeez and Neogi, Natasha},
+  booktitle = {2025 IEEE International Systems Conference (SysCon)},
+  pages     = {1--8},
+  year      = {2025},
+  organization = {IEEE}
+}
+````
+
+
 ## Future Work
 - Implement real-time classification using video input.
 - Extend the model to classify additional aircraft types.
